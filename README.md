@@ -1,1 +1,0 @@
-# tesseract-insights-base
