@@ -1,8 +1,7 @@
 {
     "run_code" : "RUN",
     "version" : "2.8.1",
-    "insight_key" : "country_site_code",
+    "insight_key" : "eid",
     "storage" : "dynamo",
-    "insight_key": "country_site_code",
-    "email" : "aprasad2@godaddy.com"
+    "email" : "vbhat@godaddy.com"
 }
