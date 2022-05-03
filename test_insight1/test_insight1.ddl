@@ -1,2 +1,2 @@
-eid  int,
+eid  string,
 name string
