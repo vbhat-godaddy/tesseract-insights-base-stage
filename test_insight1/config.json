@@ -1,6 +1,6 @@
 {
     "run_code" : "RUN",
-    "version" : "2.8.1",
+    "version" : "2.8.2",
     "insight_key" : "eid",
     "storage" : "dynamo",
     "email" : "vbhat@godaddy.com"
