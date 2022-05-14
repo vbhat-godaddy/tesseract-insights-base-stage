@@ -1,0 +1,7 @@
+{
+    "run_code" : "RUN",
+    "version" : "0.1",
+    "insight_key" : "product",
+    "storage" : "s3",
+    "email" : "vbhat@godaddy.com"
+}
