@@ -1,3 +1,4 @@
+use tesseract;
 with product_table as 
 (
 select distinct
