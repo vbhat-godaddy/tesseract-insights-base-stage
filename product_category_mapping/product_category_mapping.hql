@@ -1,5 +1,4 @@
-use tesseract;
-with product_table as 
+with product_table as
 (
 select distinct
     case 
