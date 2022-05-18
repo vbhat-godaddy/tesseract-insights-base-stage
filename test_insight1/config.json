@@ -1,7 +1,7 @@
 {
     "run_code" : "RUN",
-    "version" : "0.1",
-    "insight_key" : "product",
+    "version" : "0.2",
+    "insight_key" : "eid",
     "storage" : "s3",
     "email" : "vbhat@godaddy.com"
 }
